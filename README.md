@@ -14,6 +14,7 @@ Importing, Understanding, and Inspecting Data:
 2. Based on the findings from the previous questions, identify duplicates and remove them
 
 Performing EDA:
+
 3. Explore the geographical distribution of the restaurants and identify the cities with the maximum and minimum number of restaurants
 4. Restaurant franchising is a thriving venture. So, it is very important to explore the franchise with most national presence
 5. Find out the ratio between restaurants that allow table booking vs. those that do not allow table booking
@@ -21,6 +22,7 @@ Performing EDA:
 7. Calculate the difference in number of votes for the restaurants that deliver and the restaurants that do not deliver
 
 Performing EDA:
+
 1. What are the top 10 cuisines served across cities?
 2. What is the maximum and minimum number of cuisines that a restaurant serves? Also, which is the most served cuisine across the restaurant for each city?
 3. What is the distribution cost across the restaurants?
