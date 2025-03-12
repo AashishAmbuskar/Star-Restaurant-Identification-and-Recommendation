@@ -30,6 +30,7 @@ Performing EDA:
 5. Explain the factors in the data that may have an effect on ratings. For example, number of cuisines, cost, delivery option, etc.
 
 Dashboarding:
+
 6. Visualize the variables using Tableau to help user explore the data and create a better understanding of the restaurants to identify the ‘’star’’ restaurant
 7. Demonstrate  the variables associated with each other and factors to build a dashboard
 
